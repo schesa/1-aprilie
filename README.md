@@ -2,4 +2,5 @@
 
 A litte gift to celebrate All Fools' Day
 
-run: /bin/1_aprilie.exe
+File To Run :
+> /bin/1_aprilie.exe
